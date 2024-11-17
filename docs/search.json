@@ -1,38 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
     "section": "",
-    "text": "All course materials utilised for this course teaching are available in the Microsoft Teams folder. You can access this folder via your university login credentials if you want to download those."
+    "text": "Tutorials\n\nTutorial 01: To download this tutorial in pdf format, please click here.\nTutorial 02: To download this tutorial in pdf format, please click here.\nTutorial 03:To download this tutorial in pdf format, please click here.\nTutorial 04: To download this tutorial in pdf format, please click here.\n\nModel Answers\n\nModel answers for tutorial 1"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "MC4010",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching team",
     "section": "",
-    "text": "You can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:"
+    "text": "Teaching staff welcome communication from students. We aim to respond to emails within two working days. Our email addresses are below. Please follow the basics of Netiquette and the Student Code of Conduct.\nYou can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:\n\n\n\nDr T. Mayooran (📧)\n\n\n\n\n\nMiss M. Mathangi (📧)\nMiss S. Anushiya (📧)\nMiss M. Rogetha (📧)\nMiss R. Meenadushanthani (📧)"
   },
   {
-    "objectID": "contact.html#lecturers",
-    "href": "contact.html#lecturers",
-    "title": "MC4010",
-    "section": "Lecturers",
-    "text": "Lecturers\n\nMr T. Mayooran (📧)\nMiss S. Thawsika (📧)"
-  },
-  {
-    "objectID": "contact.html#tutors",
-    "href": "contact.html#tutors",
-    "title": "MC4010",
-    "section": "Tutors",
-    "text": "Tutors\n\nMiss M. Mathangi (📧)\nMiss S. Anushiya (📧)\nMiss M. Rogetha (📧)\nMiss R. Meenadushanthani (📧)\n\nIf you require any discussion concerning this course, you can connect via Zoom. Below are the Zoom details for your reference:\nTopic: MC4010\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/6138540796?pwd=VEpJcjk2c0R3b05vaEZIdm1CQ0dZQT09\nMeeting ID: 613 854 0796\nPasscode: Mc4010_23\nTo schedule a discussion regarding this course, please note that the available time slots are Monday to Friday between 8:00 am and 4:00 pm, subject to any prior appointments.\n---"
-  },
-  {
-    "objectID": "exercise.html",
-    "href": "exercise.html",
-    "title": "About",
+    "objectID": "teaching.html#lecturers",
+    "href": "teaching.html#lecturers",
+    "title": "Teaching team",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Dr T. Mayooran (📧)"
+  },
+  {
+    "objectID": "teaching.html#tutors",
+    "href": "teaching.html#tutors",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Miss M. Mathangi (📧)\nMiss S. Anushiya (📧)\nMiss M. Rogetha (📧)\nMiss R. Meenadushanthani (📧)"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Lecture notes",
+    "section": "",
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n21-10-24\n24-10-24\n24-10-24\nWeek 1\nLogic and Proofs\nLect 1\nDr P. Kathirgamanathan\n\n\n28-10-24\n31-10-24*\n31-10-24*\nWeek 2\nLogic and Proofs/ Tutorial 1\nLect 1\nTutors / Dr T. Mayooran\n\n\n04-11-24\n07-11-24\n07-11-24\nWeek 3\nLogic and Proofs/ Tutorial 1\nTutorial 01\nTutors / Dr T. Mayooran\n\n\n11-11-24\n14-11-24*\n14-11-24*\nWeek 4\n\nLect 2\nDr T. Mayooran\n\n\n21-11-24\n21-11-24\n22-11-24\nWeek 5\nSet theory/Assignment 1\nLect 3\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 6\nFunctions/ Sequences, Sums and Matrices\nLect 4 / Tutorial 02\nTutors /Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 7\nRelations/ Tutorial 2/Induction and Recursion\nLect 5\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 8\nInduction and Recursion/ Assignment 2/ Mid semester\nLect 6\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 9\nInduction and Recursion/ Counting\nLect 7\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 10\nCounting\nLect 7\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 11\nDiscrete Probability\nLect 8\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek12\nTutorial 3/ Assignment 3\nTutorial 03\nTutors / Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 13\nDiscrete Probability\nLect 8\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 14\nDiscrete Probability\n\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 15\nTutorial 4/ Assignment 4/Revisions\nTutorial 04\nTutors / Dr T. Mayooran\n\n\n\n*Indicates a public holiday (no lectures will be conducted)."
+  },
+  {
+    "objectID": "notes.html#course-schedule-tentative",
+    "href": "notes.html#course-schedule-tentative",
+    "title": "Lecture notes",
+    "section": "",
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n21-10-24\n24-10-24\n24-10-24\nWeek 1\nLogic and Proofs\nLect 1\nDr P. Kathirgamanathan\n\n\n28-10-24\n31-10-24*\n31-10-24*\nWeek 2\nLogic and Proofs/ Tutorial 1\nLect 1\nTutors / Dr T. Mayooran\n\n\n04-11-24\n07-11-24\n07-11-24\nWeek 3\nLogic and Proofs/ Tutorial 1\nTutorial 01\nTutors / Dr T. Mayooran\n\n\n11-11-24\n14-11-24*\n14-11-24*\nWeek 4\n\nLect 2\nDr T. Mayooran\n\n\n21-11-24\n21-11-24\n22-11-24\nWeek 5\nSet theory/Assignment 1\nLect 3\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 6\nFunctions/ Sequences, Sums and Matrices\nLect 4 / Tutorial 02\nTutors /Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 7\nRelations/ Tutorial 2/Induction and Recursion\nLect 5\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 8\nInduction and Recursion/ Assignment 2/ Mid semester\nLect 6\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 9\nInduction and Recursion/ Counting\nLect 7\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 10\nCounting\nLect 7\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 11\nDiscrete Probability\nLect 8\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek12\nTutorial 3/ Assignment 3\nTutorial 03\nTutors / Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 13\nDiscrete Probability\nLect 8\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 14\nDiscrete Probability\n\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 15\nTutorial 4/ Assignment 4/Revisions\nTutorial 04\nTutors / Dr T. Mayooran\n\n\n\n*Indicates a public holiday (no lectures will be conducted)."
   },
   {
     "objectID": "index.html",
@@ -77,32 +84,53 @@
     "text": "Attendance Policy:\nRegular attendance is a fundamental aspect of your success in this course. To maintain an engaged and collaborative learning environment, a minimum attendance rate of \\(80\\%\\) is compulsory. Attendance will be recorded during each class session, and weekly updates on attendance percentages will be posted on the course platform for your reference. If we find that your attendance percentage falls below the required threshold due to extenuating circumstances, you must seek approval from your academic advisor. This approval is mandatory for participation in any examinations, including assignments. It is essential to communicate proactively with your advisor to discuss the reasons for any attendance issues and to devise a plan for catching up on missed coursework. Please note that exceptions will be considered on a case-by-case basis, with a strong emphasis on maintaining the integrity of the learning experience for all students."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "MC4010",
+    "section": "",
+    "text": "You can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:"
+  },
+  {
+    "objectID": "contact.html#lecturers",
+    "href": "contact.html#lecturers",
+    "title": "MC4010",
+    "section": "Lecturers",
+    "text": "Lecturers\n\nMr T. Mayooran (📧)\nMiss S. Thawsika (📧)"
+  },
+  {
+    "objectID": "contact.html#tutors",
+    "href": "contact.html#tutors",
+    "title": "MC4010",
+    "section": "Tutors",
+    "text": "Tutors\n\nMiss M. Mathangi (📧)\nMiss S. Anushiya (📧)\nMiss M. Rogetha (📧)\nMiss R. Meenadushanthani (📧)\n\nIf you require any discussion concerning this course, you can connect via Zoom. Below are the Zoom details for your reference:\nTopic: MC4010\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/6138540796?pwd=VEpJcjk2c0R3b05vaEZIdm1CQ0dZQT09\nMeeting ID: 613 854 0796\nPasscode: Mc4010_23\nTo schedule a discussion regarding this course, please note that the available time slots are Monday to Friday between 8:00 am and 4:00 pm, subject to any prior appointments.\n---"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "All course materials utilised for this course teaching are available in the Microsoft Teams folder. You can access this folder via your university login credentials if you want to download those."
+  },
+  {
+    "objectID": "exercise.html",
+    "href": "exercise.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "MC4010",
     "section": "",
-    "text": "Assignment 01: (to be scheduled)\nAssignment 02: (to be scheduled)\nAssignment 03: (to be scheduled)\nAssignment 04: (to be scheduled)\nMid-semester examination: (to be scheduled)\nEnd of course examination (to be scheduled)"
+    "text": "Assignment 01: 22-11-2024 from 02.00 Pm to 02.40 Pm \nAssignment 02: (to be scheduled)\nAssignment 03: (to be scheduled)\nAssignment 04: (to be scheduled)\nMid-semester examination: (to be scheduled)\nEnd of course examination (to be scheduled)"
   },
   {
     "objectID": "news.html#important-dates-tentative",
     "href": "news.html#important-dates-tentative",
     "title": "MC4010",
     "section": "",
-    "text": "Assignment 01: (to be scheduled)\nAssignment 02: (to be scheduled)\nAssignment 03: (to be scheduled)\nAssignment 04: (to be scheduled)\nMid-semester examination: (to be scheduled)\nEnd of course examination (to be scheduled)"
-  },
-  {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Lecture notes",
-    "section": "",
-    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 1\nLogic and Proofs\nLect 1\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 2\nLogic and Proofs\nLect 1\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 3\nTutorial 1/ Assignment 1\nTutorial 01\nTutors / Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 4\nSet theory\nLect 2\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 5\nFunctions\nLect 3\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 6\nSequences, Sums and Matrices\nLect 4 / Tutorial 02\nTutors /Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 7\nRelations/ Tutorial 2/Induction and Recursion\nLect 5\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 8\nInduction and Recursion/ Assignment 2/ Mid semester\nLect 6\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 9\nInduction and Recursion/ Counting\nLect 7\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 10\nCounting\nLect 7\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 11\nDiscrete Probability\nLect 8\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek12\nTutorial 3/ Assignment 3\nTutorial 03\nTutors / Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 13\nDiscrete Probability\nLect 8\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 14\nDiscrete Probability\n\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 15\nTutorial 4/ Assignment 4/Revisions\nTutorial 04\nTutors / Dr T. Mayooran"
-  },
-  {
-    "objectID": "notes.html#course-schedule-tentative",
-    "href": "notes.html#course-schedule-tentative",
-    "title": "Lecture notes",
-    "section": "",
-    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 1\nLogic and Proofs\nLect 1\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 2\nLogic and Proofs\nLect 1\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 3\nTutorial 1/ Assignment 1\nTutorial 01\nTutors / Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 4\nSet theory\nLect 2\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 5\nFunctions\nLect 3\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 6\nSequences, Sums and Matrices\nLect 4 / Tutorial 02\nTutors /Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 7\nRelations/ Tutorial 2/Induction and Recursion\nLect 5\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 8\nInduction and Recursion/ Assignment 2/ Mid semester\nLect 6\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 9\nInduction and Recursion/ Counting\nLect 7\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 10\nCounting\nLect 7\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 11\nDiscrete Probability\nLect 8\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek12\nTutorial 3/ Assignment 3\nTutorial 03\nTutors / Dr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 13\nDiscrete Probability\nLect 8\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 14\nDiscrete Probability\n\nDr T. Mayooran\n\n\n00-00-24\n00-00-24\n00-00-24\nWeek 15\nTutorial 4/ Assignment 4/Revisions\nTutorial 04\nTutors / Dr T. Mayooran"
+    "text": "Assignment 01: 22-11-2024 from 02.00 Pm to 02.40 Pm \nAssignment 02: (to be scheduled)\nAssignment 03: (to be scheduled)\nAssignment 04: (to be scheduled)\nMid-semester examination: (to be scheduled)\nEnd of course examination (to be scheduled)"
   },
   {
     "objectID": "Past_exam.html",
@@ -124,33 +152,5 @@
     "title": "Past exam papers",
     "section": "End examination papers",
     "text": "End examination papers\n\n\n\nYear\nPast exam paper\n\n\n\n\n2023\nMC3020_2023\n\n\n2022\nMC3020_2022\n\n\n2021\nMC3020_2021\n\n\n2019\nMC3020_2019"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching team",
-    "section": "",
-    "text": "Teaching staff welcome communication from students. We aim to respond to emails within two working days. Our email addresses are below. Please follow the basics of Netiquette and the Student Code of Conduct.\nYou can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:\n\n\n\nDr T. Mayooran (📧)\n\n\n\n\n\nMiss M. Mathangi (📧)\nMiss S. Anushiya (📧)\nMiss M. Rogetha (📧)\nMiss R. Meenadushanthani (📧)"
-  },
-  {
-    "objectID": "teaching.html#lecturers",
-    "href": "teaching.html#lecturers",
-    "title": "Teaching team",
-    "section": "",
-    "text": "Dr T. Mayooran (📧)"
-  },
-  {
-    "objectID": "teaching.html#tutors",
-    "href": "teaching.html#tutors",
-    "title": "Teaching team",
-    "section": "",
-    "text": "Miss M. Mathangi (📧)\nMiss S. Anushiya (📧)\nMiss M. Rogetha (📧)\nMiss R. Meenadushanthani (📧)"
-  },
-  {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "Tutorials\n\nTutorial 01: To download this tutorial in pdf format, please click here.\nTutorial 02: To download this tutorial in pdf format, please click here.\nTutorial 03:To download this tutorial in pdf format, please click here.\nTutorial 04: To download this tutorial in pdf format, please click here.\n\nModel Answers\n\nModel answers for tutorial 1"
   }
 ]
